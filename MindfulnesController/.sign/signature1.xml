@@ -4,11 +4,11 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>U00dQwn4hm+6Zi080i7MIWC2rA53jaTP6XxM1i3orWg=</DigestValue>
+<DigestValue>AFq5dYPsFZJT0jUPV+5LSEhCk4ume6/CJVBSbgFEiak=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>A9proh5U0v27AwoIlezH5ngdjD/01o3KsDjrvRGeO+U=</DigestValue>
+<DigestValue>kDo7iuQGpzWzoUFPcSUj4X+cmdsZyYlJvPRrqw+h8Kc=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.circle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -28,7 +28,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>SFZlcxU1rJdqWr9/F/GZx/vzsac7Iy5fG5hpqqDhMHQ=</DigestValue>
+<DigestValue>kfu9X6HMoepxoi0ENlsL2Vl9YSoUz3zGzeLuCQ2miu0=</DigestValue>
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -40,7 +40,7 @@
 </Reference>
 <Reference URI="js%2Finterval.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>AG4fwoy5d1ASmTVy07tzW+iHuLk1BLGWm5A4LvraHuU=</DigestValue>
+<DigestValue>2PuI7CvgLKVXba1CnKi4zK246gct9ksiHZoKqIRkUQ4=</DigestValue>
 </Reference>
 <Reference URI="js%2FlowBatteryCheck.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -48,7 +48,7 @@
 </Reference>
 <Reference URI="js%2FvibrationHandler.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Yu7Nt5XwoAvRdNuLHVtlwNjq3nfZjXxxWR5yLCjSTw8=</DigestValue>
+<DigestValue>OiCtfBfIHGtDmFKJHQqj9J9DDS6nOq93133R55cg7dA=</DigestValue>
 </Reference>
 <Reference URI="lib%2Ftau%2FLICENSE.Flora">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1387,9 +1387,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-NkeEapLl56U+Yb3nUhg3KASN7mjwjYNzxpIrVN9OSvEBWHqRjIy5a+n3QZvi0Ux9gp12tuguMpze
-i+b+IFT2hIJGb0NDLIa2nSTelUGHPQT0Ox2OOtCnlaI0rWLjbnmvu1fV8FX8MtL2NZ1xfmgN0ksw
-QFrVdzuJpj6T4I6EhoU=
+L+PL2HLf7ur3OFbLZNgy+R4UonawvA09Bbtzms86rF23qm9KI/y4e4UKa075Xpjzj6hUb8jWTihm
+drCQAjyxZ7yNKJZDIn1V6HTo+mqMoR9HuY+YjKKflW+7DRSEUryqPX77eeZ7hyl6V1REYwz0xPT3
+yXfHpGS3IKc0f47oUyc=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

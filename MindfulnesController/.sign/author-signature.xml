@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>A9proh5U0v27AwoIlezH5ngdjD/01o3KsDjrvRGeO+U=</DigestValue>
+<DigestValue>kDo7iuQGpzWzoUFPcSUj4X+cmdsZyYlJvPRrqw+h8Kc=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.circle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -24,7 +24,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>SFZlcxU1rJdqWr9/F/GZx/vzsac7Iy5fG5hpqqDhMHQ=</DigestValue>
+<DigestValue>kfu9X6HMoepxoi0ENlsL2Vl9YSoUz3zGzeLuCQ2miu0=</DigestValue>
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -36,7 +36,7 @@
 </Reference>
 <Reference URI="js%2Finterval.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>AG4fwoy5d1ASmTVy07tzW+iHuLk1BLGWm5A4LvraHuU=</DigestValue>
+<DigestValue>2PuI7CvgLKVXba1CnKi4zK246gct9ksiHZoKqIRkUQ4=</DigestValue>
 </Reference>
 <Reference URI="js%2FlowBatteryCheck.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -44,7 +44,7 @@
 </Reference>
 <Reference URI="js%2FvibrationHandler.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Yu7Nt5XwoAvRdNuLHVtlwNjq3nfZjXxxWR5yLCjSTw8=</DigestValue>
+<DigestValue>OiCtfBfIHGtDmFKJHQqj9J9DDS6nOq93133R55cg7dA=</DigestValue>
 </Reference>
 <Reference URI="lib%2Ftau%2FLICENSE.Flora">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1383,9 +1383,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Jgv63QidaTbf/oj8+cc9LVOKiHYiBU0Ez5PF1uix3CLSNDC9wPmeeQfu+A1+BvmQN3caJqpRSNq4
-6fjyT9sGO6+Fvv3CQiRK3T6OKbXV3dKIin+/H7gx9FaGlUvrZYgKAioMHMIImolL84iA6pJHFYon
-On2PdZU81ypfTaFkRpg=
+LG7GkMF4CLqHchfgeiX6AJIHg41FeT81/0vXniIWHE1YO0UO/HKsvtymIExkkNuP/cc3gMvCgTzu
+GbAYZ08M+WKu9W8c3HZrIYYzV3p3+a79BPc49jCjVzehqxQXJjmG4XbD0CFMj0WNl4ex5gsgQErt
+thFgA7Cm625r7TScL4E=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

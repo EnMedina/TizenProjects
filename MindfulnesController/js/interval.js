@@ -4,5 +4,7 @@ document.getElementById("parent-list").addEventListener("click",function(e) {
     console.log(e.target.nodeName);
 	if(e.target && e.target.nodeName === "LI") {
 		alert("Setting vibration for " + e.target.id + " minutes");
+		localStorage.setItem("timeInterval", e.target.id);
+		location.assign("../index.html");
 	}
 });
