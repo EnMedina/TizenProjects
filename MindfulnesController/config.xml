@@ -9,4 +9,5 @@
     <tizen:privilege name="http://tizen.org/privilege/power"/>
     <tizen:background-category value="sensor"/>
     <tizen:setting background-support="enable" />
+    
 </widget>
